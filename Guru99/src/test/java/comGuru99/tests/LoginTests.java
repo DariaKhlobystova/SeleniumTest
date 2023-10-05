@@ -14,7 +14,7 @@ public class LoginTests extends BaseTest {
         reportUtils.addTestLog(Status.INFO, "Performing Login");
         loginPage.loginToApplication(username, password);
 
-        String expectedTitle = "Guru99 Bank Manager Home Page";
+        String expectedTitle = "Guru99 Bank Manager HomePage";
         String actualTitle = cmnDriver.getTitleOfThePage();
         reportUtils.addTestLog(Status.INFO, "Comparing expected and actual title");
         Assert.assertEquals(actualTitle, expectedTitle);
