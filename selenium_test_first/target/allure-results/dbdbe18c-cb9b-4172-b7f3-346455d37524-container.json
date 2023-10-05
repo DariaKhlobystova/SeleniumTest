@@ -1,0 +1,1 @@
+{"uuid":"dbdbe18c-cb9b-4172-b7f3-346455d37524","name":"CarLoansPositiveTest","children":["3bebf812-a668-44b4-96ff-87db6e24dde3"],"befores":[],"afters":[{"name":"close","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1691667809015,"stop":1691667809015}],"links":[],"start":1691667803744,"stop":1691667809017}
